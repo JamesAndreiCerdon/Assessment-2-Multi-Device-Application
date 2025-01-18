@@ -1,1 +1,1 @@
-# Assessment-2-Multi-Device-Application
+# Assessment 2: Multi-Device Application
