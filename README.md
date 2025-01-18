@@ -1,1 +1,1 @@
-# Assessment 2: Multi-Device Application
+# Responsive-Web-Design-Development-Assessment-2
